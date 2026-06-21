@@ -87,6 +87,6 @@ streamlit run app.py
 1. **Input Parameters:** The user inputs a Pokémon's base values (`HP`, `Attack`, `Defense`, `Sp. Atk`, `Sp. Def`, and `Speed`) into the web interface.
 2. **Model Inference:** On clicking **Predict**, the inputs are formatted into a matching matrix row and evaluated by the pre-trained Random Forest model.
 3. **Result Output:** The system instantly returns whether the custom configuration meets the classification boundary for a **⭐ Legendary Pokémon** or stays within standard **🐾 Non-Legendary** limits, alongside confidence probability metrics.
-## 🔗 Project Links
+
 
 
